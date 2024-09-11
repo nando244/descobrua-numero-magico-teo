@@ -23,5 +23,5 @@ function chuteForInvalido(numero){
 }
 
 function numeroForMaiorOuMenorQueOValorPermitido(numero){
-    return numero > maiorValor || numero < menorValo
+    return numero > maiorValor || numero < menorValor
 }
